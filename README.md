@@ -11,3 +11,7 @@ git commit -m "apple"
 10000000=128
 1011=11
 Arshitha=65 114 115 104 105 116 104 97 
+datatypes.txt 
+2x
+int(newworld)
+ 10x
