@@ -1,0 +1,5 @@
+char
+byte
+int:
+double
+float
